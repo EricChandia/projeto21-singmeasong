@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1664069396714" clover="3.2.0">
+  <project timestamp="1664069396714" name="All files">
+    <metrics statements="32" coveredstatements="7" conditionals="6" coveredconditionals="1" methods="9" coveredmethods="1" elements="47" coveredelements="9" complexity="0" loc="32" ncloc="32" packages="1" files="1" classes="1"/>
+    <file name="recommendationsService.ts" path="/home/ericchandia/Driven/Projetos/sing-me-a-song/back-end/src/services/recommendationsService.ts">
+      <metrics statements="32" coveredstatements="7" conditionals="6" coveredconditionals="1" methods="9" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="8" count="2" type="stmt"/>
+      <line num="11" count="2" type="cond" truecount="1" falsecount="0"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="18" count="0" type="stmt"/>
+      <line num="20" count="0" type="stmt"/>
+      <line num="24" count="0" type="stmt"/>
+      <line num="26" count="0" type="stmt"/>
+      <line num="31" count="0" type="cond" truecount="0" falsecount="1"/>
+      <line num="32" count="0" type="stmt"/>
+      <line num="37" count="0" type="stmt"/>
+      <line num="38" count="0" type="cond" truecount="0" falsecount="1"/>
+      <line num="40" count="0" type="stmt"/>
+      <line num="44" count="0" type="stmt"/>
+      <line num="48" count="0" type="stmt"/>
+      <line num="52" count="0" type="stmt"/>
+      <line num="53" count="0" type="stmt"/>
+      <line num="55" count="0" type="stmt"/>
+      <line num="56" count="0" type="cond" truecount="0" falsecount="1"/>
+      <line num="57" count="0" type="stmt"/>
+      <line num="60" count="0" type="stmt"/>
+      <line num="61" count="0" type="stmt"/>
+      <line num="65" count="0" type="stmt"/>
+      <line num="70" count="0" type="cond" truecount="0" falsecount="1"/>
+      <line num="71" count="0" type="stmt"/>
+      <line num="74" count="0" type="stmt"/>
+      <line num="78" count="0" type="cond" truecount="0" falsecount="1"/>
+      <line num="79" count="0" type="stmt"/>
+      <line num="82" count="0" type="stmt"/>
+      <line num="85" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
