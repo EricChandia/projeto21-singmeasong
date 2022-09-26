@@ -13,7 +13,8 @@ export default {
     '<rootDir>/src/utils',
     '<rootDir>/src/config',
     '<rootDir>/tests/factories',
-    '<rootDir>/src/database.ts'
+    '<rootDir>/src/database.ts',
+    '<rootDir>/tests/factory'
   ],
   globals: {
     "ts-jest": {
