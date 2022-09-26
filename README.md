@@ -109,10 +109,6 @@ GET /recommendations/random
         ...
     ]
 ```
-```yml
-
-***
-
 
 ## 🏁 Rodando a aplicação
 Primeiro, faça o clone desse repositório na sua maquina:
